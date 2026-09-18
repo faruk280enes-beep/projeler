@@ -1,4 +1,5 @@
 
+
 while true
        sayi=input('oyuna başlamak için 1, oyunu bitirmek için -1 yazınız: ' ,'s');
        sayi=str2double(sayi) ;
